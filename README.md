@@ -5,7 +5,7 @@
 
 ## Results
 ### ML 1: Naive Random Oversampling
-![thisisanimage]("https://github.com/nbhatia1014/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling.PNG")
+![thisisanimage](https://github.com/nbhatia1014/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling.PNG)
 
 ### ML 2: Smote Oversampling
 ![thisisanimage]("https://github.com/nbhatia1014/Credit_Risk_Analysis/blob/main/Images/Smote%20Oversampling.PNG")
