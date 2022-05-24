@@ -2,6 +2,7 @@
 
 ## Overview:
 ### Purpose:
+The purpose of this challenge is to use various machine learning algorithims to predict credit risk. We will be using the (i) RandomOverSampler, (ii) Smote, (iii) ClusterCentroids, (iv) Smoteenn, (v) BalanceRandomForestClassifier and finally the (vi) EasyEnsembleClassifier algorithims to predict credit risk in various ways. The first two algorithims oversample the data, the third undersamples it, the fourth uses a combination of oversample and undersample and finally the last two are machine learnign models that reduce bias.
 
 ## Results
 ### ML 1: Naive Random Oversampling
@@ -25,7 +26,8 @@
 ## Summary:
 
 ### Summary of Results:
+4 out of the 6 machine learning models had an accuracy score between 50% and 70%. The two machine learning models that reduce bias had an accuracy score between 75% and 95%.
 
 ### Reccomendation on Model:
-
+Overall, the Easy Ensamble AdaBoost Classifier had the best accuracy score out of the 6 machine learning models. I would reccomend using this one. The Balanced Random Forrest Classifier would be a close second if you had to choose two models.
 
